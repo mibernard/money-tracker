@@ -1,3 +1,78 @@
+# Transactions App
+
+A MERN (MongoDB, Express.js, React, Node.js) stack application to manage and visualize transactions.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+## Features
+
+- **Add Transactions**: Easily input transaction details including the amount, description, and date.
+- **View All Transactions**: List view of all the transactions with highlights for positive and negative amounts.
+- **Balance Calculation**: Display the current balance.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js: Ensure you have Node.js installed. If not, download and install it from [Node.js](https://nodejs.org/).
+- Yarn: This project uses Yarn for dependency management. [Installation guide for Yarn](https://classic.yarnpkg.com/en/docs/install/).
+
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/mibernard/money-tracker.git
+2. Navigate to the project directory:
+   cd money-tracker
+3. Install the required dependencies using Yarn:
+   yarn install
+
+## Usage
+
+To run the app in the development mode:
+    yarn start
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Tech Stack
+
+- [MongoDB](https://www.mongodb.com/)
+- [Express.js](https://expressjs.com/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/)
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
+4. Push to the Branch (`git push origin feature/NewFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Matthew Bernard - matthewbernard4@gmail.com
+
+Project Link: [https://github.com/mibernard/money-tracker](https://github.com/mibernard/money-tracker)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
